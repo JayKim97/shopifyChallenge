@@ -2,6 +2,13 @@
 </head>
 
 <body>
-  <main></main>
+  <%- include('../includes/navigation.ejs') %>
+  <main>
+    <% if (imgs.length >0){ %>
+      <% for (let img of imgs) {%>
+        <a href="/image/<%= img._id %>" class="btn">Details</a>
+      <%}%>
+    <%}%>
+  </main>
 
 <%- include('../includes/end.ejs') %>

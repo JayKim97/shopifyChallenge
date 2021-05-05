@@ -14,4 +14,5 @@ const userSchema = new Schema({
   resetToken: String,
   resetTokenExpiration: Date,
 });
+
 module.exports = mongoose.model("User", userSchema);
