@@ -2,6 +2,10 @@
 
 Shopify backend 2021 challenge
 
+## LIVE DEMO LINK
+
+https://shopify-frontend.netlify.app/
+
 ## installation
 
 ```bash
