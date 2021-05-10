@@ -43,5 +43,5 @@ cd server && npm install
 npm start
 ```
 
-server/.env FILE must be populated for the application to work
+server/.env FILE must be populated for the application to work  
 template in .env-example
