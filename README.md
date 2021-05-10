@@ -8,9 +8,9 @@ MAY TAKE UP TO 30 SECONDS FOR HEROKU TO REACTIVATE THE BACKEND
 
 https://shopify-frontend.netlify.app/
 
-Signin to checkout all the features
-Please use regular sign up page
-google signup credentials domain verification is in progress
+-Signin to checkout all the features
+-Please use regular sign up page
+-google signup credentials domain verification is in progress
 
 ## Feature
 
