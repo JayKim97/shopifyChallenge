@@ -1,12 +1,14 @@
-# shopifyChallenge
+# Shopify Challenge
 
-Shopify backend 2021 challenge
+Shopify 2021 challenge
 
 ## LIVE DEMO LINK
 
+MAY TAKE UP TO 30 SECONDS FOR HEROKU TO REACTIVATE THE BACKEND
+
 https://shopify-frontend.netlify.app/
 
-sign in to checkout all the features
+Signin to checkout all the features
 Please use regular sign up page
 google signup credentials domain verification is in progress
 
